@@ -5,6 +5,10 @@ application up and running.
 
 Things you may want to cover:
 
+Super ce gossip project ouais j'adore c'est  tip top
+
+On a pleins de base de donnée !!!!
+
 * Ruby version
 
 * System dependencies
